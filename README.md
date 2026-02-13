@@ -51,8 +51,9 @@ CNN – 95.71% Accuracy
 LSTM performed better in contextual understanding and was selected for deployment.
 
 
-### Toxic (1) → If any toxicity category = 1
-### Non-Toxic (0) → Otherwise
+Toxic (1) → If any toxicity category = 1
+
+Non-Toxic (0) → Otherwise
 
 ## 🔍 Project Workflow
 
