@@ -14,8 +14,6 @@ This project builds a Deep Learning-based system to detect toxic comments in onl
 ✔ Glassmorphism UI with Dark/Light Mode  
 ✔ Streamlit Cloud Deployment Ready  
 
----
-
 ## 🛠 Tech Stack
 
 | Category | Tools Used |
@@ -28,7 +26,6 @@ This project builds a Deep Learning-based system to detect toxic comments in onl
 | Visualization | Matplotlib |
 | Version Control | GitHub |
 
----
 
 ## 📂 Dataset
 
@@ -56,9 +53,6 @@ LSTM performed better in contextual understanding and was selected for deploymen
 
 ### Toxic (1) → If any toxicity category = 1
 ### Non-Toxic (0) → Otherwise
-
-
----
 
 ## 🔍 Project Workflow
 
@@ -91,8 +85,6 @@ Two architectures were implemented and compared:
 - Global Max Pooling
 - Dense (Sigmoid Output)
 
----
-
 ## 📊 Model Performance
 
 | Model | Accuracy |
@@ -102,7 +94,6 @@ Two architectures were implemented and compared:
 
 📌 LSTM achieved better contextual understanding and was selected for deployment.
 
----
 
 ## 💾 Model Saving
 
