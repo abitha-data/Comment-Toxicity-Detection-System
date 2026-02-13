@@ -119,3 +119,15 @@ Tokenizer:
 2️⃣ Run Streamlit App:
 
       streamlit run app.py
+
+
+ ### 📁 Project Structure
+
+AI-Toxicity-Detection/
+      │
+      ├── app.py
+      ├── final_toxicity_lstm_model.keras
+      ├── final_tokenizer.pkl
+      ├── train.csv
+      ├── requirements.txt
+      └── README.md
