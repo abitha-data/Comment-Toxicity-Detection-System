@@ -54,3 +54,64 @@ CNN – 95.71% Accuracy
 LSTM performed better in contextual understanding and was selected for deployment.
 
 
+### Toxic (1) → If any toxicity category = 1
+### Non-Toxic (0) → Otherwise
+
+
+---
+
+## 🔍 Project Workflow
+
+### 1️⃣ Data Exploration
+- Dataset shape & structure analysis
+- Missing value check
+- Class imbalance analysis
+- Sample toxic vs non-toxic inspection
+
+### 2️⃣ Text Preprocessing
+- Lowercasing
+- Special character removal
+- Stopword removal
+- Tokenization
+- Sequence padding
+
+### 3️⃣ Model Development
+
+Two architectures were implemented and compared:
+
+#### 🔹 LSTM Model
+- Embedding Layer
+- LSTM Layer
+- Dropout
+- Dense (Sigmoid Output)
+
+#### 🔹 CNN Model
+- Embedding Layer
+- Conv1D
+- Global Max Pooling
+- Dense (Sigmoid Output)
+
+---
+
+## 📊 Model Performance
+
+| Model | Accuracy |
+|--------|----------|
+| LSTM | **96.13%** |
+| CNN | 95.71% |
+
+📌 LSTM achieved better contextual understanding and was selected for deployment.
+
+---
+
+## 💾 Model Saving
+
+Final Model: 
+ 
+      final_toxicity_lstm_model.keras
+
+Tokenizer:
+
+      final_tokenizer.pkl
+
+     
