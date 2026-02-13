@@ -115,3 +115,12 @@ Tokenizer:
       final_tokenizer.pkl
 
      
+### ▶️ How to Run the Project
+
+1️⃣ Install dependencies:
+
+      pip install -r requirements.txt
+
+2️⃣ Run Streamlit App:
+
+      streamlit run app.py
