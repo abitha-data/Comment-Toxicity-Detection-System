@@ -39,6 +39,7 @@ Original Labels:
 - insult  
 - identity_hate  
 
+
 ### Binary Target Creation
 
 A unified binary label was created:
@@ -54,6 +55,7 @@ LSTM performed better in contextual understanding and was selected for deploymen
 Toxic (1) → If any toxicity category = 1
 
 Non-Toxic (0) → Otherwise
+
 
 ## 🔍 Project Workflow
 
@@ -105,6 +107,7 @@ Final Model:
 Tokenizer:
 
       final_tokenizer.pkl
+
 
      
 ### ▶️ How to Run the Project
