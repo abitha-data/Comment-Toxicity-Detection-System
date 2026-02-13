@@ -132,3 +132,8 @@ Tokenizer:
              ├── train.csv
              ├── requirements.txt
              └── README.md
+
+
+### Screenshot:
+
+<img width="1920" height="1020" alt="AI Toxicity Detection - Google Chrome 2_13_2026 12_27_59 PM" src="https://github.com/user-attachments/assets/8fdd6bf6-0b2b-4906-b787-73b60facf8d0" />
