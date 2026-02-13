@@ -123,11 +123,11 @@ Tokenizer:
 
  ### 📁 Project Structure
 
-AI-Toxicity-Detection/
-      │
-      ├── app.py
-      ├── final_toxicity_lstm_model.keras
-      ├── final_tokenizer.pkl
-      ├── train.csv
-      ├── requirements.txt
-      └── README.md
+          AI-Toxicity-Detection/
+             │
+             ├── app.py
+             ├── final_toxicity_lstm_model.keras
+             ├── final_tokenizer.pkl
+             ├── train.csv
+             ├── requirements.txt
+             └── README.md
